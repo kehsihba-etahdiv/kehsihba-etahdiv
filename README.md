@@ -8,3 +8,5 @@ let's go shibi
 - **21-03-2026** - read about some past attacks and what was done to catch them , it seems on-ramp and off-ramp is only way to caught due to nature of blockchain
 - **23-03-2026** - learning Ghidra for reverse engineering, bit overwhelmed but feels good , as it's part of learning
 - **25-03-2026** - woohoo, opened .so files and tried to learn the flow in Ghidra, feel like hacker
+
+- **20-05-2026** - woohoo, still struggling, but at least on bit of correct way , i hope so
