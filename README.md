@@ -10,3 +10,5 @@ let's go shibi
 - **25-03-2026** - woohoo, opened .so files and tried to learn the flow in Ghidra, feel like hacker
 
 - **20-05-2026** - woohoo, still struggling, but at least on bit of correct way , i hope so
+
+- **01-06-2026** - *MORPH MIDNIGHT*, FIRST SERIOUS AUDITING , serious auditing term is based on my mind's idea . fucked up 
