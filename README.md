@@ -11,4 +11,5 @@ let's go shibi
 
 - **20-05-2026** - woohoo, still struggling, but at least on bit of correct way , i hope so
 
-- **01-06-2026** - *MORPH MIDNIGHT*, FIRST SERIOUS AUDITING , serious auditing term is based on my mind's idea . fucked up 
+- **01-06-2026** - *MORPH MIDNIGHT*, FIRST SERIOUS AUDITING , serious auditing term is based on my mind's idea . fucked up
+- **11-06-2026** - tried hard, learned about protocol and flow and all . couldn't find a valid HIGH bug, might be experience issue or some protocols don't have HIGH bugs , will try hard on next project too but with some different strategy
